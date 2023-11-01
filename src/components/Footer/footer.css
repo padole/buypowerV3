@@ -1,0 +1,43 @@
+.footer-main{
+    background: black;
+    color: white;
+    display: flex;
+    padding: 3rem 12rem 3rem 12rem;
+}
+
+.footer-main li a{
+    color: white;
+}
+
+.social-media img{
+    background-color: white;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    padding: 0.5rem;
+    margin: 2rem 2rem 2rem 0;
+}
+
+.footer-div1{
+    margin-right: 10rem;
+    width: 30rem;
+}
+.footer-div1 p{
+    margin-top: 2.5rem;
+}
+.footer-div2 li{
+    padding-top: 1rem;
+    margin-right: 9rem;
+}
+.footer-div3 li{
+    padding-top: 1rem;
+    margin-right: 9rem;
+}
+.footer-div4 li{
+    padding-top: 1rem;
+    margin-right: 4rem;
+}
+
+
+
+

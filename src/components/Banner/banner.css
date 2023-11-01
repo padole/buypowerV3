@@ -1,0 +1,117 @@
+.slider img{
+    width: 212.2vh;
+    height: 95vh;
+    position: absolute;
+    top:2px;
+   
+}
+
+.banner-form{
+    position: relative;
+    color: white;
+    top: 8rem;
+    left: 5rem;
+    width: 40rem;
+}
+
+.elect-div span{
+    width: 5rem;
+}
+
+.electricity{
+    font-family: "Open Sans" sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.phone-number{
+    font-family: "Open Sans" sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 3rem;
+    margin-bottom: 5px;
+}
+
+.mobile-number input{
+    padding: 2rem 1rem;
+    font-family: "Open Sans" sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    max-width: 40rem;
+    border-radius: 5px;
+}
+
+.buy-btn{
+    margin-top: 5rem;
+    
+}
+
+.buy-btn a{
+    padding: 2rem 10.1rem;
+    font-family: "Open Sans" sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 1rem;
+    color: white;
+    background: #9AAD4C;
+    margin-bottom: 3rem;
+    border-radius: 5px;
+}
+
+#buy-btn:hover{
+    color: #F7AD1A;
+}
+
+
+.help{
+    font-family: "Open Sans" sans-serif;
+    font-size: 26px;
+    font-weight: 600;
+    margin-top: 5rem;
+}
+
+
+
+@media screen and (max-width: 480px){
+    .slider img{
+        width: 380px;
+        height: 80vh;
+        position: absolute;
+        top:2px;
+       
+    }
+
+    .banner-form{
+        position: relative;
+        color: white;
+        top: 3rem;
+        left: 5rem;
+        width: 32rem;
+
+    }
+
+    .electricity{
+        font-size: 30px;
+    }
+
+    .phone-number{
+        font-size: 19px;
+    }
+
+    .mobile-number input{
+        padding: 2rem 1rem;
+        font-size: 19px;
+        max-width: 32rem;
+
+    }
+
+    .buy-btn a{
+        padding: 2rem 8rem;
+        font-size: 19px;
+    }
+
+    .help{
+        font-size: 19px;
+    }
+}
+

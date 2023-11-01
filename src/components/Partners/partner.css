@@ -1,0 +1,21 @@
+.card img{
+
+    display: block;
+    height: auto;
+    width: 70%;
+}
+
+.container{
+    background-color: white;
+    padding: 0 5rem;
+}
+
+h2{
+    font-family: "Open Sans", sans-serif ;
+    font-size: 22px;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+    padding-top: 8rem;
+    padding-bottom: 2rem;
+}

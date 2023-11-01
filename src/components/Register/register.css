@@ -1,0 +1,48 @@
+.register-main{
+    display: flex;
+    margin-top: 10rem;
+    /* padding: 5rem; */
+}
+
+.register-1{
+    padding: 3rem 14rem;
+    background: #F5F6FA;;
+}
+
+.register-1 h3{
+    font-family: "Open Sans",sans-serif;
+    font-size: 22px;
+    line-height:44px;
+    font-weight: 700;
+    margin: 29.26px 0px;
+    letter-spacing: 0.457143px;
+    width: 35rem;
+   
+}
+
+.register-2{
+    background: #8CA23B;
+    display: flex;
+    padding: 10rem 13.2rem;
+    border-radius: 5px;
+    
+}
+
+.mobile-number2 input{
+    padding: 1.5rem 2.3rem 1.5rem 1.5rem;
+    border-top-left-radius: 5px solid white;
+    border-bottom-left-radius: 5px solid white;
+    font-size: 16px;
+}
+.get-started{
+    margin-top: 1.6rem;
+}
+.get-started a{
+    background: #006891;
+    color: white;
+    padding: 1.53rem 2.5rem;
+    font-size: 16px;
+    font-weight: 600;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
